@@ -8,7 +8,7 @@ Ver:
 <p>Projeto criado para atividade de API REST com tema do anime evangelion</p>
 <img src="https://c.tenor.com/uN9qvbYY7SYAAAAC/pen-pen-evangelion.gif">
 
-#Inicialização
+# Inicialização
 <p>Fazer download do repositório e iniciar com o comando</p>
 
 ```sh
